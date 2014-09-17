@@ -1,0 +1,56 @@
+form > div:nth-child(2) {
+  text-align: right;
+  width: 405px;
+  margin-top: 10px;
+}
+
+form > div:nth-child(1) {
+  border: solid #c3c3c3 1px;
+  width: 400px;
+  clear: both;
+  display: table;
+  padding: 5px;
+  padding-right: 0px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px #c3c3c3;
+}
+
+form > div:nth-child(1) > div {
+  padding: 5px;
+}
+
+.floatLeft {
+  float: left;
+  width: 130px;
+  text-align: right;
+  margin-right: 10px;
+}
+
+form input[type="text"], form input[type="password"] {
+  width: 230px;
+}
+
+.floatRight {
+  float: right; 
+}
+
+.error {
+  border: solid #ff0033 1px;
+  box-shadow: 0px 0px 5px #ff9999;
+  background-color: #ff9999;
+  color: #660000;
+}
+
+.error, .success {
+  width: 395px;
+  margin-bottom: 10px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.success {
+  border: solid #339900 1px;
+  box-shadow: 0px 0px 5px #339900;
+  background-color: #ccffcc;
+  color: #006633;
+}
