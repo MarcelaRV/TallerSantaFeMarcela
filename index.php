@@ -21,7 +21,4 @@
     <div><a href="localidad/index.php">Gestión Localidad</a></div>
     <div><a href="usuario/index.php">Gestión Usuario</a></div>
     <div><a href="datos_usuario/index.php">Gestión Datos Usuario</a></div>
-    
-    
-    
 </html>
